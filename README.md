@@ -1,5 +1,3 @@
-cat > README.md << 'EOF'
-
 # Mainflug - Professional Drone Services Website
 
 A modern, high-performance website for professional drone services built with Next.js 15, TypeScript, and Tailwind CSS. Features a sophisticated dark theme with cyan accents matching the Mainflug brand identity.
